@@ -1,7 +1,7 @@
 apiVersion: delivery.ocm.software/v1alpha1
 kind: ComponentVersion
 metadata:
-  name: incident-management-app
+  name: incident-management-application
   namespace: ocm-system
 spec:
   interval: 1m0s
